@@ -5,18 +5,16 @@
   <!-- Substitua a URL da imagem abaixo pelo seu banner       -->
   <!-- Dica de proporção recomendada: 1200x350px ou 1200x400px -->
   <!-- ====================================================== -->
-  ![Header](./your-header-image-name.png)
+  ![Header](./github-header-banner.png)
 
-  <br/><br/>
-
-  # Muito prazer! Sou o Marco Antônio 👋
+  # Muito prazer! Sou o Marco Antônio 👋 
   
   ### ☕ Entusiasta por Tecnologia, Códigos, Café e Resolução de Problemas
   
   <p align="center">
     <b>Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Cruzeiro do Sul (UnicSul)</b><br/>
     <i>São Paulo - Brasil 📍</i>
-  </p>
+  </p><br>
 
   <!-- BADGES DE CONTATO & REDES -->
   <p align="center">
@@ -30,13 +28,14 @@
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
     </a>
   </p>
+<br>
 
   <!-- LINHA DIVISÓRIA -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 </div>
 
-<br/>
+<br/><br>
 
 ## 🧭 Sobre Mim & Minha Trajetória
 
@@ -58,7 +57,7 @@ Para mim, programar não é apenas replicar tutoriais ou decorar sintaxe. É res
 
 ## 🛠️ Stack Tecnológica & Aprendizado Contínuo
 
-Aqui estão algumas das ferramentas, bancos e linguagens que utilizo em meus projetos acadêmicos e pessoais:
+Aqui estão algumas das ferramentas, bancos de dados e linguagens que utilizo em meus projetos acadêmicos e pessoais:
 
 <br>
 
@@ -77,6 +76,7 @@ Aqui estão algumas das ferramentas, bancos e linguagens que utilizo em meus pro
 ## 📌 Repositórios em Destaque
 
 Confira os projetos principais que demonstram minha evolução prática em engenharia de software e arquitetura:
+<br> <br>
 
 <table width="100%">
   <tr>
