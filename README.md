@@ -115,6 +115,16 @@ Confira os projetos principais que demonstram minha evolução prática em engen
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ <a href="https://github.com/AdrianaTMelo/api-pedidos">API-Pedidos</a></h3>
+      <p><b>JavaScript • Node • Express • Jest/Supertest • Postman</b></p>
+      <p>API de Gerenciamento de Pedidos é uma solução RESTful desenvolvida em Node.js e Express concebida para atender às demandas de controle de pedidos de uma loja., juntamente do monitoramento da vida útil de um pedido.</p>
+      <a href="https://github.com/AdrianaTMelo/api-pedidos">
+        <img src="https://img.shields.io/github/stars/AdrianaTMelo/api-pedidos?style=social" alt="Stars" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
